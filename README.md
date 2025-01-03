@@ -5,3 +5,5 @@
 [2단계]  조건문 24.12.31 완료 (https://www.acmicpc.net/step/4)
 
 [3단계]  반복문 25.01.02 완료 (https://www.acmicpc.net/step/3)
+
+[4단계]  1차원 배열 25.01.03 완료 (https://www.acmicpc.net/step/6)
