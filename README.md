@@ -7,3 +7,5 @@
 [3단계]  반복문 25.01.02 완료 (https://www.acmicpc.net/step/3)
 
 [4단계]  1차원 배열 25.01.03 완료 (https://www.acmicpc.net/step/6)
+
+[5단계]  문자열 25.01.05 완료 (https://www.acmicpc.net/step/7)
