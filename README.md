@@ -11,3 +11,5 @@
 [5단계]  문자열 25.01.05 완료 (https://www.acmicpc.net/step/7)
 
 [6단계]  심화 1 25.01.22 완료 (https://www.acmicpc.net/step/52)
+
+[7단계]  2차원 배열 25.01.22 완료 (https://www.acmicpc.net/step/2)

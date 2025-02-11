@@ -155,6 +155,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Step6_10798.cpp" />
+    <ClCompile Include="Step7_2563.cpp" />
     <ClCompile Include="Step7_2566.cpp" />
     <ClCompile Include="Step7_2738.cpp" />
   </ItemGroup>
