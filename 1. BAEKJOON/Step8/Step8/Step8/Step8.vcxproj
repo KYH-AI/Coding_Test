@@ -155,8 +155,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Step8_11005.cpp" />
+    <ClCompile Include="Step8_1193.cpp" />
+    <ClCompile Include="Step8_2292.cpp" />
     <ClCompile Include="Step8_2720.cpp" />
     <ClCompile Include="Step8_2745.cpp" />
+    <ClCompile Include="Step8_2869.cpp" />
+    <ClCompile Include="Step8_2903.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Step8_2869.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
