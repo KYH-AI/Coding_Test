@@ -17,3 +17,5 @@
 [8단계] 일반 수학1  25.03.19 완료 (https://www.acmicpc.net/step/8)
 
 [9단계] 약수, 배수와 소수  25.03.24 완료 (https://www.acmicpc.net/step/10)
+
+[10단계] 기하: 직사각형과 삼각형  25.03.24 완료 (https://www.acmicpc.net/step/50)
